@@ -4,8 +4,4 @@ Step 1 is under control
 
 Step 2 is under control
 
-Testing
-
-Step 3
-
- Step 3 part 2
+Changed my development from local environment and GitHub

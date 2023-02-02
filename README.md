@@ -13,3 +13,5 @@ Creative visual display
 IP Address: http://52.15.196.131
 
 This is my website that I created with my own server. Something that I learned with this part of the course was just how cool and easy it was to create my own website and server. It is also really cheap! This makes me want to create more of them and do more things. This honestly has been so eye opening and moving for me that I know what I want to do with my life. I want to dive deep into all of this stuff. It is so cool that I can create my own server, website, and code to do whatever I want.
+
+Something that I found really interesting was how you could re-route some address to another IP via paying more. This is something that I never knew, but I definitely see the benefit of doing so. This is an amazing class and I love how much I am already learning from it. 

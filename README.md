@@ -19,3 +19,5 @@ Something that I found really interesting was how you could re-route some addres
 Something that I learned with this assignment was really how to use vim. This is something that I was forced to use because I needed to edit something directly with vim in order to secure my website. I now know that I need to get better at using this feature as I will most definitely be needing to know how to use this in the future. 
 
 Something that I found interesting was that the HTML language was no so difficult to understand. I feel like with C++ and other languages like Python and stuff there is a steep learning curve as to knowing how to do stuff. With HTML, there is simple syntax that is easy to understand and the same across multiple functions, that it as much as I have learned so far. 
+
+Something that I found interesting was that HTML shows you where the structure ranks on the page. The indentation always increases with every new item. This is something that is helpful to me as I know that I would very easily get lost if I did not have those indentations in the code so that I could keep my thoughts straight. 

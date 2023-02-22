@@ -31,3 +31,5 @@ Something that I learned on this assignment was the importance of syntax. Numero
 Something that I learned while doing this is that you can really design websites to fit all types of systems. I really like the idea of controlling every aspect of the website while also letting the website shrink. Another thing I learned it that you can use nth-child to specify things while being in another section. I find this really useful as you can apply something to only certain aspects of a main part of the website. 
 
 Something that I learned while doing this assignment was that most websites use Bootstrap to build out their stuff. This is something that is really interesting to me and I did not know this. I wonder why this is and this also explains why every website looks so similar. 
+
+I learned how to truly edit a webpage on this assignment. I did not really know how to make things look better rather than the original design that html gave. I also saw the importance of tracking the headers in html and css as they are directly correlated and very useful for knowing the correct header.

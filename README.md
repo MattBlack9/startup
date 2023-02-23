@@ -33,3 +33,5 @@ Something that I learned while doing this is that you can really design websites
 Something that I learned while doing this assignment was that most websites use Bootstrap to build out their stuff. This is something that is really interesting to me and I did not know this. I wonder why this is and this also explains why every website looks so similar. 
 
 I learned how to truly edit a webpage on this assignment. I did not really know how to make things look better rather than the original design that html gave. I also saw the importance of tracking the headers in html and css as they are directly correlated and very useful for knowing the correct header.
+
+Something interesting that I found with this assignment was how similar Java is to C++. I feel like I am very familiar with Java already because I know so much C++. This is something that is useful to me, but I also need to recognize that some of the syntax is different. 

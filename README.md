@@ -39,3 +39,6 @@ Something interesting that I found with this assignment was how similar Java is 
 Something that I really like about the objects and classes was that you can create a function within a class to print out the classes contents. This is something that I think is really convenient because it keeps everything straight while writing code to create a class that does one specific class. Furthermore, I really like objects in JavaScript because it allows different data types so that you could create one object for one person or user that can hold all their information. 
 
 I really like this way of destructing and arrays in JavaScript. It makes it really simple to pull things out. I really like how you can name specific things in the objects and pull those out. It makes it really easy to make original arrays really long to be able to be pulled it out. 
+
+Something that I like about this is that it shows that all three languages, CSS, HTML, JavaScript are completely harmonious. This is something really neat to me as I have not gained a lot of experience in multiple languages working together. I also really like how all of the data could be stored in JavaScript as well. This is something that I like because it shows me the usefulness of JavaScript. 
+

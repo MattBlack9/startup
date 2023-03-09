@@ -35,3 +35,5 @@ Something that I learned while doing this assignment was that most websites use 
 I learned how to truly edit a webpage on this assignment. I did not really know how to make things look better rather than the original design that html gave. I also saw the importance of tracking the headers in html and css as they are directly correlated and very useful for knowing the correct header.
 
 Something interesting that I found with this assignment was how similar Java is to C++. I feel like I am very familiar with Java already because I know so much C++. This is something that is useful to me, but I also need to recognize that some of the syntax is different. 
+
+Something that I really like about the objects and classes was that you can create a function within a class to print out the classes contents. This is something that I think is really convenient because it keeps everything straight while writing code to create a class that does one specific class. Furthermore, I really like objects in JavaScript because it allows different data types so that you could create one object for one person or user that can hold all their information. 

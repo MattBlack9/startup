@@ -37,3 +37,5 @@ I learned how to truly edit a webpage on this assignment. I did not really know 
 Something interesting that I found with this assignment was how similar Java is to C++. I feel like I am very familiar with Java already because I know so much C++. This is something that is useful to me, but I also need to recognize that some of the syntax is different. 
 
 Something that I really like about the objects and classes was that you can create a function within a class to print out the classes contents. This is something that I think is really convenient because it keeps everything straight while writing code to create a class that does one specific class. Furthermore, I really like objects in JavaScript because it allows different data types so that you could create one object for one person or user that can hold all their information. 
+
+I really like this way of destructing and arrays in JavaScript. It makes it really simple to pull things out. I really like how you can name specific things in the objects and pull those out. It makes it really easy to make original arrays really long to be able to be pulled it out. 

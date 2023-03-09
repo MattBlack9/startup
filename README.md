@@ -42,3 +42,5 @@ I really like this way of destructing and arrays in JavaScript. It makes it real
 
 Something that I like about this is that it shows that all three languages, CSS, HTML, JavaScript are completely harmonious. This is something really neat to me as I have not gained a lot of experience in multiple languages working together. I also really like how all of the data could be stored in JavaScript as well. This is something that I like because it shows me the usefulness of JavaScript. 
 
+Something that I liked is the randomness that promises add to the program. I like how these things run in order as well. This is very useful as I think in order as well. I cannot focus on one subject until the previous one has been complete as well. I love this about promises. It is also nice that this all runs in the background and has an output for the user so that they can understand what is going on as well. 
+

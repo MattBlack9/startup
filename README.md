@@ -44,3 +44,5 @@ Something that I like about this is that it shows that all three languages, CSS,
 
 Something that I liked is the randomness that promises add to the program. I like how these things run in order as well. This is very useful as I think in order as well. I cannot focus on one subject until the previous one has been complete as well. I love this about promises. It is also nice that this all runs in the background and has an output for the user so that they can understand what is going on as well. 
 
+I really like how you are able to fetch things in JavaScript. This really makes it easier to keep things separated so that you are able keep yourself organized. This is a theme of coding and things that I have learned in this course. Everything is really organized and gives you the chance to be organized. It is up to the developer if they want to be organized or lazy really. 
+
